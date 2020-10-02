@@ -12,8 +12,8 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Teisha B', // Title for your website.
-    tagline: 'Privacy Researcher',
+    title: 'Your Name Here', // Title for your website.
+    tagline: 'Insert Tag Line',
     profilePhoto: 'img/profile.png',
     url: 'https://nbookert.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
@@ -68,8 +68,8 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: '',
-        twitter: 'NyteishaBookert',
-        github: 'nbookert',
+        twitter: '',
+        github: '',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
